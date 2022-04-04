@@ -1,5 +1,6 @@
 <div align="center">
-<img align="center" width="50%" height="50%"  src="https://github.com/natchanon37/natchanon37/blob/main/logo.png?raw=true">
+<img align="center" width="70%" height="70%"  src="https://github.com/natchanon37/natchanon37/blob/main/logo2.jpg?raw=true">
+   <p>Photo by HiroshiNgai</p>
 </div>
 
 ### Check My Page !!!
