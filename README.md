@@ -1,16 +1,6 @@
 <div align="center">
-<img align="center" width="70%" height="70%"  src="https://github.com/natchanon37/natchanon37/blob/main/logo2.jpg?raw=true">
-   <p>Photo by HiroshiNgai</p>
+<a href="https://profile-next-js-7nos7jwhl-natchanon37.vercel.app"><img align="center" width="70%" height="70%"  src="https://github.com/natchanon37/natchanon37/blob/main/logo2.jpg?raw=true">
 </div>
-
-### Check My Page !!!
-
-   <a href="https://profile-next-js-7nos7jwhl-natchanon37.vercel.app"><img src="https://img.shields.io/badge/MyPage-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   ---
-
-
-
-
 
 
 ### Languages
