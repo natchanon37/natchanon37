@@ -1,5 +1,6 @@
 <div align="center">
 <a href="https://profile-next-js-7nos7jwhl-natchanon37.vercel.app"><img align="center" width="70%" height="70%"  src="https://github.com/natchanon37/natchanon37/blob/main/logo2.jpg?raw=true">
+<p>Click above image to link to my page!!</p>
 </div>
 
 
